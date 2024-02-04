@@ -1,0 +1,15 @@
+/Users/mac1932/Projects/Задание3-1/Задание3-1/bin/Debug/net7.0/Задание3-1
+/Users/mac1932/Projects/Задание3-1/Задание3-1/bin/Debug/net7.0/Задание3-1.deps.json
+/Users/mac1932/Projects/Задание3-1/Задание3-1/bin/Debug/net7.0/Задание3-1.runtimeconfig.json
+/Users/mac1932/Projects/Задание3-1/Задание3-1/bin/Debug/net7.0/Задание3-1.dll
+/Users/mac1932/Projects/Задание3-1/Задание3-1/bin/Debug/net7.0/Задание3-1.pdb
+/Users/mac1932/Projects/Задание3-1/Задание3-1/obj/Debug/net7.0/Задание3-1.csproj.AssemblyReference.cache
+/Users/mac1932/Projects/Задание3-1/Задание3-1/obj/Debug/net7.0/Задание3-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac1932/Projects/Задание3-1/Задание3-1/obj/Debug/net7.0/Задание3-1.AssemblyInfoInputs.cache
+/Users/mac1932/Projects/Задание3-1/Задание3-1/obj/Debug/net7.0/Задание3-1.AssemblyInfo.cs
+/Users/mac1932/Projects/Задание3-1/Задание3-1/obj/Debug/net7.0/Задание3-1.csproj.CoreCompileInputs.cache
+/Users/mac1932/Projects/Задание3-1/Задание3-1/obj/Debug/net7.0/Задание3-1.dll
+/Users/mac1932/Projects/Задание3-1/Задание3-1/obj/Debug/net7.0/refint/Задание3-1.dll
+/Users/mac1932/Projects/Задание3-1/Задание3-1/obj/Debug/net7.0/Задание3-1.pdb
+/Users/mac1932/Projects/Задание3-1/Задание3-1/obj/Debug/net7.0/Задание3-1.genruntimeconfig.cache
+/Users/mac1932/Projects/Задание3-1/Задание3-1/obj/Debug/net7.0/ref/Задание3-1.dll
